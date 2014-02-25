@@ -11,7 +11,21 @@
 
 ## API
 
+### `Cursor(el)`
 
+Initialize the `cursor`.
+
+### `cursor.move(fn)`
+
+Call `fn` when the cursor moves
+
+```js
+cursor.move(function(e) { ... })
+```
+
+### `cursor.unbind()`
+
+Unbind all event handlers
 
 ## License
 
