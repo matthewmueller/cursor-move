@@ -1,0 +1,16 @@
+{
+  "name": "cursor-move",
+  "repo": "matthewmueller/cursor-move",
+  "description": "call a function when the cursor position changes",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/events": "1.0.6"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
